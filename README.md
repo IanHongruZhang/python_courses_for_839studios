@@ -1,1 +1,1 @@
-# python courses for members from 839 studio
+# Python courses for members from 839 studio
